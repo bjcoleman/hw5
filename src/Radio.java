@@ -6,3 +6,7 @@
  */
 
 // TODO: implement the Radio class according to specifications
+public class Radio
+{
+
+}
